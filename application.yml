@@ -6,10 +6,3 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
   instance: 
     hostname: localhost
-    
-spring:
-  data:
-      mongodb: 
-        host: localhost
-        database: microservices
-        port: 27017
